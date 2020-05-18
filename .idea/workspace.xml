@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a64e334-ffe6-4d10-a42a-3899f454b9dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/XCS224N-A1/co_occurence.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A1/co_occurence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A2/sgd.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A2/sgd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A2/word2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A2/word2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A3/parser_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A3/parser_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A3/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A3/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A3/utils/parser_transitions.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A3/utils/parser_transitions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A4/model_embeddings.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A4/model_embeddings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A4/nmt_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A4/nmt_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A4/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A4/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A5/char_decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A5/char_decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A5/cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A5/cnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A5/highway.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A5/highway.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A5/model_embeddings.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A5/model_embeddings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A5/nmt_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A5/nmt_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A5/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A5/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XCS224N-A5/vocab.py" beforeDir="false" afterPath="$PROJECT_DIR$/XCS224N-A5/vocab.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/XCS224N-A5" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZRnGgZmQGShnFlfQxGHIg8Oxyg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.33" />
+    <property name="project.structure.side.proportion" value="0.3080292" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Python.run (1)">
+    <configuration name="parser_transitions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCS224N-A3/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCS224N-A3/utils/parser_transitions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCS224N-A3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCS224N-A3/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCS224N-A2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCS224N-A2/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sgd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCS224N-A2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCS224N-A2/sgd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word2vec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XCS224N-A2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XCS224N-A2/word2vec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run (1)" />
+        <item itemvalue="Python.parser_transitions" />
+        <item itemvalue="Python.word2vec" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.sgd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../data-messaging-processor-omnitracking" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../explainable-ml" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a64e334-ffe6-4d10-a42a-3899f454b9dc" name="Default Changelist" comment="" />
+      <created>1584810679814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584810679814</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="128" key="#Project_Structure" timestamp="1586809828820">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="128" key="#Project_Structure/0.23.1440.877/1440.23.1680.1027@0.23.1440.877" timestamp="1586809828820" />
+    <state width="816" height="466" key="DebuggerActiveHint" timestamp="1585489902148">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="816" height="466" key="DebuggerActiveHint/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1585489902148" />
+    <state x="246" y="222" key="FileChooserDialogImpl" timestamp="1585487106080">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="246" y="222" key="FileChooserDialogImpl/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1585487106080" />
+    <state width="1398" height="127" key="GridCell.Tab.0.bottom" timestamp="1587455154120">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="318" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1680.1027@0.23.1440.877" timestamp="1586809936542" />
+    <state width="1398" height="127" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587455154120" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585070249206" />
+    <state width="1398" height="127" key="GridCell.Tab.0.center" timestamp="1587455154118">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="318" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1680.1027@0.23.1440.877" timestamp="1586809936540" />
+    <state width="1398" height="127" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587455154118" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585070249206" />
+    <state width="1398" height="127" key="GridCell.Tab.0.left" timestamp="1587455154117">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="318" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1680.1027@0.23.1440.877" timestamp="1586809936538" />
+    <state width="1398" height="127" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587455154117" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585070249205" />
+    <state width="1398" height="127" key="GridCell.Tab.0.right" timestamp="1587455154119">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="318" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1680.1027@0.23.1440.877" timestamp="1586809936542" />
+    <state width="1398" height="127" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1587455154119" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585070249206" />
+    <state width="1398" height="132" key="GridCell.Tab.1.bottom" timestamp="1585592406118">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="132" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1585592406118" />
+    <state width="1398" height="132" key="GridCell.Tab.1.center" timestamp="1585592406116">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="132" key="GridCell.Tab.1.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1585592406116" />
+    <state width="1398" height="132" key="GridCell.Tab.1.left" timestamp="1585592406114">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="132" key="GridCell.Tab.1.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1585592406114" />
+    <state width="1398" height="132" key="GridCell.Tab.1.right" timestamp="1585592406117">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="132" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1585592406117" />
+    <state x="2270" y="269" key="RollbackChangesDialog" timestamp="1589657771960">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2270" y="269" key="RollbackChangesDialog/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589657771960" />
+    <state x="1745" y="71" width="1274" height="837" key="SettingsEditor" timestamp="1588091164917">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.23.1440.877/1440.23.1680.1027@0.23.1440.877" timestamp="1586809820834" />
+    <state x="229" y="63" key="SettingsEditor/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1585487108666" />
+    <state x="1745" y="71" width="1274" height="837" key="SettingsEditor/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1588091164917" />
+    <state x="2189" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588094621893">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2189" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1588094621893" />
+    <state x="1951" y="258" width="1096" height="663" key="find.popup" timestamp="1589730766436">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="383" y="218" width="822" height="550" key="find.popup/0.23.1440.877/1440.23.1680.1027@0.23.1440.877" timestamp="1586811475450" />
+    <state x="383" y="218" width="673" height="486" key="find.popup/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1585487220583" />
+    <state x="1951" y="258" width="1096" height="663" key="find.popup/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589730766436" />
+    <state x="115" y="66" key="new project wizard" timestamp="1586424046454">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="115" y="66" key="new project wizard/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586424046454" />
+    <state x="1953" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1589731080839">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1953" y="252" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589731080839" />
+    <state x="385" y="213" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1584817407635" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XCS224N-A2/word2vec.py</url>
+          <line>189</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XCS224N-A3/parser_model.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="np.dot(outsideVectors.T, probs) " language="Python" />
+        <watch expression="np.dot(probs, outsideVectors)" language="Python" />
+        <watch expression="np.dot(outsideVectors, probs.T)" language="Python" />
+        <watch expression="np.outer(centerWordVec, probs.T)" language="Python" />
+        <watch expression="np.dot(probs, centerWordVec.T)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
